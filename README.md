@@ -3,7 +3,7 @@
 #### - Menjalankan Python Console
 #### - Menampilkan tulisan “Hello” dilayar
 #### - Menampilkan tulisan “Saya sedang belajar python” dilayar
-![Gambar](gambar/pic1.png)
+![Gambar](gambar/Gambar1.png)
 
 
 # Latihan 2
@@ -13,7 +13,7 @@
 #### - Mendefinisikan variable b dengan nilai 6
 #### - Mencetak nilai variable a dan b
 #### - Mencetak hasil penjumlahan a+b
-![Gambar](gambar/pic2.png)
+![Gambar](gambar/Gambar2.png)
 
 
 # Latihan 3
@@ -21,20 +21,20 @@
 #### - Menjalankan IDLE
 #### - Membuat file baru dengan nama latihan3.py (pastikan lokasi file pada folder lab2py pada direktori kerja anda)
 #### - Menggunakan fungsi input untuk mengambil nilai variabel dari keyboard.
-![Gambar](gambar/pic3.png)
+![Gambar](gambar/Gambar3.png)
 
-![Gambar](gambar/pic4.png)
+![Gambar](gambar/Gambar4.png)
 
 ## Pycharm
 #### - https://www.jetbrains.com/pycharm/
-![Gambar](gambar/pic5.png)
+![Gambar](gambar/Gambar5.png)
 
 ## Virtual Environment (Venv)
-![Gambar](gambar/pic7.png)
+![Gambar](gambar/Gambar6.png)
 
 ## Menambahkan File Baru
 #### - main.py
-![Gambar](gambar/pic8.png)
+![Gambar](gambar/Gambar7.png)
 
 ## Menjalankan Program
-![Gambar](gambar/pic6.png)
+![Gambar](gambar/Gambar8.png)
