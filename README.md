@@ -23,15 +23,15 @@
 #### - Menggunakan fungsi input untuk mengambil nilai variabel dari keyboard.
 ![Gambar](gambar/Gambar3.png)
 
-![Gambar](gambar/Gambar4.png)
+![Gambar](gambar/Gambar4.jpeg)
 
 ## Pycharm
 #### - https://www.jetbrains.com/pycharm/
-![Gambar](gambar/Gambar5.png)
+![Gambar](gambar/Gambar5.jpeg)
 
 ## Virtual Environment (Venv)
 ![Gambar](gambar/Gambar6.png)
 
 ## Menambahkan File Baru
 #### - main.py
-![Gambar](gambar/Gambar7.png)
+![Gambar](gambar/Gambar7.jpeg)
